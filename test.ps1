@@ -1,2 +1,2 @@
 # HELLO WORLD
-write-host -ForegroundColor Cyan "$(Get-Date -Format s) HELLO WORLD!`n"
+write-host "HELLO WORLD!"
